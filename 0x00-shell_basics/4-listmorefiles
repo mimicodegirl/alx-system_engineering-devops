@@ -1,3 +1,2 @@
-echo #!/bin/bash
 #!/bin/bash
 ls -al
